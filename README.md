@@ -6,4 +6,6 @@ Pour une utilisation optimale, nous vous conseillons d'utiliser une logiciel de 
 
 Vous pouvez ensuite suivre le mode d'emploi fourni avec les fichiers pour personnaliser votre feuille de route.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
+
 ![Exemple de feuille de route](https://cdn.discordapp.com/attachments/809082820474568754/840472926913691658/feuille_route_mochup.jpg)
