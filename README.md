@@ -1,6 +1,6 @@
-# Feuille de route pour personnage (compatible 5E) - version 2.2
+# Feuille de route pour personnage (compatible 5E) - version 3
 
-Une feuille de route à personnaliser soi-même... avec plus de 170 tokens.
+Une feuille de route à personnaliser soi-même... avec près de 200 tokens.
 
 Pour une utilisation optimale, nous vous conseillons d'utiliser une logiciel de lecture PDF (notamment Acrobat Reader) et de télécharger l'ensemble des fichiers, soit en téléchargeant la dernière release (colonne de droite), soit en téléchargeant l'ensemble des documents (bouton vert "Code" > "Download ZIP").
 
@@ -14,8 +14,11 @@ Vous pouvez ensuite suivre le mode d'emploi fourni avec les fichiers pour person
 - Emplacements de jetons pour les principales caractéristiques : PV, Munitions, etc.
 - Emplacements de jetons pour les aptitudes à décompter pour chacune des classes de 5E (ex-H&D, Cinq Royaumes) mais aussi  D&D (PHB, XGtE, SCAG).
 
-## Version 2.2
+## Version 3
 
-Ajout ds emplacements de jetons correspondant aux aptitudes des classes pour les règles des Cinq Royaumes.
+Pas mal de nouveautés pour cette version 3 : 
+- Un nouveau design, reprenant celui des feuilles BlackSquare ;
+- Ajout d'une case à cocher "Revos court ou repos long" selon la condition de rechargement de la capacité ;
+- Ajout des nouvelles traductions WotC pour les aptitudes de D&D 5E ;
 
-![Exemple de feuille de route](https://cdn.discordapp.com/attachments/809082820474568754/840472926913691658/feuille_route_mochup.jpg)
+![Exemple de feuille de route](https://media.discordapp.net/attachments/701062589647683627/921473375858204702/Exemple.jpg)
