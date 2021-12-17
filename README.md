@@ -19,6 +19,8 @@ Vous pouvez ensuite suivre le mode d'emploi fourni avec les fichiers pour person
 Pas mal de nouveautés pour cette version 3 : 
 - Un nouveau design, reprenant celui des feuilles BlackSquare ;
 - Ajout d'une case à cocher "Revos court ou repos long" selon la condition de rechargement de la capacité ;
-- Ajout des nouvelles traductions WotC pour les aptitudes de D&D 5E ;
+- Ajout des nouvelles traductions WotC pour les aptitudes de D&D 5E.
+
+À cette feuille classique, s'ajoute une version "Mini" servant à décompter les aptitudes essentielles à la main - pour ceux qui jouent sans jeton.
 
 ![Exemple de feuille de route](https://media.discordapp.net/attachments/701062589647683627/921473375858204702/Exemple.jpg)
